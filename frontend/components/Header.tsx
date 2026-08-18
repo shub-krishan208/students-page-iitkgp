@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 const topNavLinks = [
   { label: "About", href: "https://www.iitkgp.ac.in/about-iitkgp" },
   { label: "Administration", href: "https://www.iitkgp.ac.in/navpage/administration" },
-  { label: "Students", href: "https://students.iitkgp.ac.in", isPill: true },
+  { label: "Students", href: "https://student.iitkgp.ac.in", isPill: true },
   { label: "Faculty and Staff", href: "https://www.iitkgp.ac.in/faculty-why-joining-iitkgp" },
   { label: "Visitors", href: "https://www.iitkgp.ac.in/how-to-reach" },
   { label: "Outreach and Alumni Affairs", href: "https://www.iitkgp.ac.in/navpage/outreach" },
